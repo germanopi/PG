@@ -1,1 +1,1 @@
-# Processamento-Grafico-Curvas-de-Bezier-JavaScrpit
+# Curvas de Bezier em JavaScript
