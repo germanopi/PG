@@ -1,1 +1,2 @@
-# Curvas de Bezier em JavaScript
+# Processamento Grafico
+Bezier Curves created in JavaScript at Visual Code.
